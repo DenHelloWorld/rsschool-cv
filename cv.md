@@ -42,3 +42,15 @@
       }
    }
    ```
+
+
+## Courses
+
+   * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+
+## Languages
+
+   * __Engish__ - Elementary
+   * __Ukrainian__ - Intermediate
+   * __Russian__ - Native
