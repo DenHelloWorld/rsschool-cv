@@ -15,3 +15,12 @@
 ## About me
 
    Passion for new things and coffee. It would be great to pass the school for the second time. I want skills, not rank.
+
+
+## Skills
+
+   * HTML,Flexbox,Grid
+   * CSS
+   * initial Git
+   * copy JS code
+   * VS code
