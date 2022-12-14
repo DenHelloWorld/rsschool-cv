@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[rs-school](https://DenHelloWorld.github.io/rsschool-cv)
+[rs-school](https://github.com/DenHelloWorld/rsschool-cv)
