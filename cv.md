@@ -51,6 +51,6 @@
 
 ## Languages
 
-   * __Engish__ - Elementary
+   * __English__ - Elementary
    * __Ukrainian__ - Intermediate
    * __Russian__ - Native
